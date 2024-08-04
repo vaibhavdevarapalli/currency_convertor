@@ -1,6 +1,6 @@
 # Currency Converter
 
-A simple Python-based currency converter application that allows you to list available currencies, get exchange rates, and convert amounts between different currencies.
+A Python-based currency converter application that allows you to list available currencies, get exchange rates, and convert amounts between different currencies.
 
 ## Features
 

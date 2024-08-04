@@ -16,11 +16,12 @@ A simple Python-based currency converter application that allows you to list ava
 ## Example
 
 Welcome to the currency converter!   
-List - lists the different currencies  " " " "
-Convert - convert from one currency to another   " " " "
-Rate - get the exchange rate of two currencies    " " " "
+List - lists the different currencies       
+Convert - convert from one currency to another   
+Rate - get the exchange rate of two currencies    
 
-Enter a command (q to quit): list
+Enter a command (q to quit): list  
+
 USD - United States Dollar - $
 EUR - Euro - €
 ...

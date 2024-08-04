@@ -39,7 +39,7 @@ USD -> EUR = 0.8574
 Enter a command (q to quit): q
 
 ## Acknowledgements
-
-. Python 3 language
-. requests library
-. Currency Converter API
+  
+- Python 3 language
+- requests library
+- Currency Converter API

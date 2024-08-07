@@ -13,7 +13,7 @@ A Python-based currency converter application that allows you to list available 
 - Python 3.x
 - `requests` library
 
-## Example
+## Illustration
 
 Welcome to the currency converter!   
 List - lists the different currencies       
